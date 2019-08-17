@@ -1,5 +1,5 @@
 {
-  "listPersonGrid": [
+  "persons": [
     {
       "id": 1,
       "nome": "roy",
