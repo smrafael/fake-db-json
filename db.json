@@ -1,0 +1,16 @@
+{
+  "listPersonGrid": [
+    {
+      "id": 1,
+      "nome": "roy",
+      "telefone": "99872-5669",
+      "apelido": "Senhor Pessoa"
+    },
+    {
+      "id": 2,
+      "nome": "Mario Joaquin",
+      "telefone": "99872-7755",
+      "apelido": "Quase Pessoa"
+    }
+  ]
+}
